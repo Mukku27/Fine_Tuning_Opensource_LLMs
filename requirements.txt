@@ -1,0 +1,5 @@
+bentoML
+langchain
+clickhouse-connect
+langchain-community
+wikipedia 
